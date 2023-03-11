@@ -44,7 +44,7 @@ Installation:
 
 ![Untitled](https://user-images.githubusercontent.com/2049284/224458325-f04c1f52-9802-4572-9a28-6077206705de.png)
 
-- Copy the hackernews-badge.ino Arduino Sketch into the IDE and edit the Options at the top of the source code to match your Access Point settings
+- Copy the hackernews-badge.ino Arduino Sketch from the root of this repository into the IDE window and edit the Options at the top of the source code to match your Access Point settings
 
 ![Capture](https://user-images.githubusercontent.com/2049284/224452356-b659c364-9a02-4e1e-9ec9-2b8005c2ccd1.PNG)
 
